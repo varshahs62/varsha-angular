@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "product_code": "456",
+      "product_name": "mobile",
+      "price": 1500,
+      "quantity": 1,
+      "description": "njkllg",
+      "id": 2
+    },
+    {
+      "product_code": "456",
+      "product_name": "mobile",
+      "price": 1254,
+      "quantity": 1,
+      "description": "gookkkdd",
+      "id": 3
+    },
+    {
+      "product_code": "248",
+      "product_name": "mobile",
+      "price": 1236,
+      "quantity": 1,
+      "description": "gfdhgv",
+      "id": 4
+    }
+  ]
+}
